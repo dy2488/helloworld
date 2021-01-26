@@ -231,6 +231,7 @@ int main()
 		break;
 	case 0:
 		cout << "欢迎下次使用" << endl;
+		cout << "后续还在更新!" << endl;
 		system("pause");
 		return 0;
 		break;
